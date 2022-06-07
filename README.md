@@ -1,13 +1,13 @@
 # Hello there! Welcome to my Github Profile 👋
 
 ## :book: About Me
-- 😎Data Analyst/Scientist
+- 💻Data Analyst/Scientist
 - 🔭 Technical Writer
-- Check me out on [Linkdeln] (https://www.linkedin.com/in/margaret-awojide/) and [Medium](https://medium.com/@margaretawojide)
+- 🔍Check me out on [Linkdeln](https://www.linkedin.com/in/margaret-awojide/) and [Medium](https://medium.com/@margaretawojide)
 - 🎓 Studying Statistics at University of Lagos, Nigeria
 - ⚡ Interested in Research
 - 🌱 I am currently working on the Udacity Data Analysis Nanodegree
-- 🌐 You can find all my projects on [Github](https://github.com/awojidetola), [Kaggle](https://www.kaggle.com/awojidemargaret) and [Zindi](https://zindi.africa/users/awojide)
+- 🌐 You can find all my open source projects on [Github](https://github.com/awojidetola), [Kaggle](https://www.kaggle.com/awojidemargaret) and [Zindi](https://zindi.africa/users/awojide)
 
 <!--
 **awojidetola/awojidetola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 Tableau Streamlit Heroku Django
 -->
 
-## Framework| Tools | Languages
+## 🛠 Framework| Tools | Languages
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height="60em" align="center" alt="Python" title="Python"/>](https://github.com/awojidetola)
 [<img src="https://pydata.org/amsterdam2018/media/sponsor_files/Anaconda_stacked_RGB.png" height="60em" align="center" alt="Anaconda" title="Anaconda"/>](https://github.com/awojidetola)
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8diGKg92SXPgrCNfDICWBS2-qYmUF5RnWtdxOVb5X0Hxi6PH5M-5P48Wz6ZHj2WEroRU&usqp=CAU" height="60em" align="center" alt="R" title="R"/>](https://github.com/awojidetola)
