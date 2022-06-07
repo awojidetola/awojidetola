@@ -22,8 +22,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Framework, Tools and Languages
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height="60em" align="center" alt="Python" title="Python"/>](https://linkedin.com/in/Raymo111)
+## Framework| Tools | Languages
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height="60em" align="center" alt="Python" title="Python"/>]()
 [<img src="https://pydata.org/amsterdam2018/media/sponsor_files/Anaconda_stacked_RGB.png" height="60em" align="center" alt="Python" title="Python"/>](https://linkedin.com/in/Raymo111)
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8diGKg92SXPgrCNfDICWBS2-qYmUF5RnWtdxOVb5X0Hxi6PH5M-5P48Wz6ZHj2WEroRU&usqp=CAU" height="60em" align="center" alt="Python" title="Python"/>](https://linkedin.com/in/Raymo111)
+[<img src="https://cdn1.vectorstock.com/i/1000x1000/77/50/sql-database-icon-logo-design-ui-or-ux-app-vector-17507750.jpg" height="60em" align="center" alt="Python" title="Python"/>](https://linkedin.com/in/Raymo111)
+
 
