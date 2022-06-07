@@ -1,8 +1,6 @@
-### Hello there! Welcome to my Github Profile 👋
+# Hello there! Welcome to my Github Profile 👋
 
-
-
-## :book: bout Me
+## :book: About Me
 + Data Analyst/Scientist
 + 🔭Technical Writer
 + 🎓 tudying Statistics at University of Lagos, Nigeria
