@@ -1,10 +1,19 @@
-### Hi there 👋
+### Hello there! Welcome to my Github Profile 👋
+
+
+
+## :book: bout Me
++ Data Analyst/Scientist
++ 🔭Technical Writer
++ 🎓 tudying Statistics at University of Lagos, Nigeria
++ ⚡Interested in Research
++ 🌱I am currently working on the Udacity Data Analysis Nanodegree
++ 🌐 ou can find all my projects on Github, Kaggle and Zindi
 
 <!--
 **awojidetola/awojidetola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
