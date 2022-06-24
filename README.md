@@ -31,6 +31,3 @@ Tableau Streamlit Heroku Django
 [<img src="https://cdn1.vectorstock.com/i/1000x1000/77/50/sql-database-icon-logo-design-ui-or-ux-app-vector-17507750.jpg" height="60em" align="center" alt="SQL" title="SQL"/>](https://github.com/awojidetola)
 [<img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png" height="60em" align="center" alt="Tableau" title="Tableau"/>](https://github.com/awojidetola)
 
-[<img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" height="60em" align="center" alt="Streamlit" title="Streamlit"/>](https://github.com/awojidetola)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/2560px-Django_logo.svg.png" height="60em" align="center" alt="Django" title="Django"/>](https://github.com/awojidetola)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Heroku_logo.svg/2560px-Heroku_logo.svg.png" height="60em" align="center" alt="Heroku" title="Heroku"/>](https://github.com/awojidetola)
