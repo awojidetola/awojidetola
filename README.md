@@ -1,7 +1,7 @@
 # Hello there! Welcome to my Github Profile 👋
 
 ## :book: About Me
-- 💻Data Analyst/Scientist
+- 💻Data Analyst/Scientist (Offer freelance services on [Fiverr](https://www.fiverr.com/awojidemarga135)
 - 🔭 Technical Writer
 - 🔍Check me out on [Linkdeln](https://www.linkedin.com/in/margaret-awojide/) and [Medium](https://medium.com/@margaretawojide)
 - 🎓 Studying Statistics at University of Lagos, Nigeria
