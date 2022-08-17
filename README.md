@@ -36,5 +36,7 @@ Tableau Streamlit Heroku Django
 | Title | Description | Links |
 | --- | --- | --- |
 | **Phone Price Prediction** | In this project the price ranges of a mobile phone is predicted based on its specifications and functionalities | [Deployed App](https://awojidetola-mobile-phone-price-prediction-prediction-mma8kw.streamlitapp.com/) , [Github Repo](https://github.com/awojidetola/Mobile-Phone-Price-Prediction) |
-<!-- | git diff | Show file differences that haven't been staged | --- | -->
+|**Youtube Analysis**|In this project, the top 20 youtube channels, based on number of subscribers, are analyzed |[Github Repo](https://github.com/awojidetola/Youtube-Analysis) , [Dashboard](https://public.tableau.com/app/profile/margaret.awojide/viz/Top200YoutubersDashboard/Dashboard1) , [Report](https://github.com/awojidetola/Youtube-Analysis/raw/main/Report.pdf)  | 
+| **Macdonals Menu** | This project analyzes the nutritional value of Macdonald's foods. | [Github Repo](https://github.com/awojidetola/McDonalds-Menu-Analysis), [Report](https://github.com/awojidetola/McDonalds-Menu-Analysis/raw/main/McDonald_Analysis%20slides.pdf)|
+| --- | --- | --- |
 
