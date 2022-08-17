@@ -31,3 +31,10 @@ Tableau Streamlit Heroku Django
 [<img src="https://cdn1.vectorstock.com/i/1000x1000/77/50/sql-database-icon-logo-design-ui-or-ux-app-vector-17507750.jpg" height="60em" align="center" alt="SQL" title="SQL"/>](https://github.com/awojidetola)
 [<img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png" height="60em" align="center" alt="Tableau" title="Tableau"/>](https://github.com/awojidetola)
 
+## Projects
+
+| Title | Description | Links |
+| --- | --- | --- |
+| Phone Prediction App | In this project, using Machine Learning and Streamlit for Deployment, the price ranges of a mobile phone is predicted based on its specifications and functionalities | [Link to Deployed App](https://awojidetola-mobile-phone-price-prediction-prediction-mma8kw.streamlitapp.com/) [Link to Github Repo](https://github.com/awojidetola/Mobile-Phone-Price-Prediction) |
+<!-- | git diff | Show file differences that haven't been staged | --- | -->
+
