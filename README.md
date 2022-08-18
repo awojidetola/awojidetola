@@ -1,4 +1,6 @@
-# Hello there! Welcome to my Github Profile 👋
+# Hello there!👋
+<a href="https://www.animatedimages.org/cat-welcome-707.htm"><img src="https://www.animatedimages.org/data/media/707/animated-welcome-image-0112.gif" border="0" alt="animated-welcome-image-0112" /></a>
+
 
 ## :book: About Me
 - 💻Data Analyst/Scientist (I offer freelance services on [Fiverr](https://www.fiverr.com/awojidemarga135))
