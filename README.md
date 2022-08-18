@@ -1,6 +1,5 @@
 # Hello there!👋
-<a href="https://www.animatedimages.org/cat-welcome-707.htm"><img src="https://www.animatedimages.org/data/media/707/animated-welcome-image-0112.gif" border="0" alt="animated-welcome-image-0112" /></a>
-
+![Welcome!](https://user-images.githubusercontent.com/49078266/185427734-60acc502-3de3-4593-9d80-4a4398ae2c29.gif)
 
 ## :book: About Me
 - 💻Data Analyst/Scientist (I offer freelance services on [Fiverr](https://www.fiverr.com/awojidemarga135))
