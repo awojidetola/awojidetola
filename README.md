@@ -7,10 +7,11 @@
 - 🔍Check me out on [Linkdeln](https://www.linkedin.com/in/margaret-awojide/) and [Medium](https://medium.com/@margaretawojide)
 - 🎓 Studying Statistics at University of Lagos, Nigeria
 - ⚡ Interested in Research 
+- 🌐 You can find all my open source projects on [Github](https://github.com/awojidetola), [Kaggle](https://www.kaggle.com/awojidemargaret) and [Zindi](https://zindi.africa/users/awojide)
+
 <!--
 - 🌱 I am currently preparing for Microsoft PL300 Exam 
 --!>
-- 🌐 You can find all my open source projects on [Github](https://github.com/awojidetola), [Kaggle](https://www.kaggle.com/awojidemargaret) and [Zindi](https://zindi.africa/users/awojide)
 
 <!--
 **awojidetola/awojidetola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
