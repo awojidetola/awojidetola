@@ -2,12 +2,14 @@
 ![Welcome!](https://user-images.githubusercontent.com/49078266/185427734-60acc502-3de3-4593-9d80-4a4398ae2c29.gif)
 
 ## :book: About Me
-- 💻Data Analyst/Scientist (I offer freelance services on [Fiverr](https://www.fiverr.com/awojidemarga135))
+- 💻Data Analyst/Scientist
 - 🔭 Technical Writer
 - 🔍Check me out on [Linkdeln](https://www.linkedin.com/in/margaret-awojide/) and [Medium](https://medium.com/@margaretawojide)
 - 🎓 Studying Statistics at University of Lagos, Nigeria
-- ⚡ Interested in Research
-- 🌱 I am currently preparing for Microsoft PL300 Exam
+- ⚡ Interested in Research 
+<!--
+- 🌱 I am currently preparing for Microsoft PL300 Exam 
+--!>
 - 🌐 You can find all my open source projects on [Github](https://github.com/awojidetola), [Kaggle](https://www.kaggle.com/awojidemargaret) and [Zindi](https://zindi.africa/users/awojide)
 
 <!--
