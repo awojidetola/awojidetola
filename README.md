@@ -36,6 +36,7 @@ Tableau Streamlit Heroku Django
 
 | Title | Description | Links |
 | --- | --- | --- |
+| **Demographics Forecast** | In this project, a web application was built that analyzes and forecasts the population, crude birth rate and crude death rate of west african countries | [Deployed Application](https://awojidetola-west-african-population-foreca-streamlit-app-3nb8ca.streamlitapp.com/), [Full Project](https://github.com/awojidetola/West-African-Population-Forecast), [Demo Video](https://user-images.githubusercontent.com/49078266/187939059-5031b37c-9d25-48d9-b1b0-183202942b70.mp4) |
 | **Phone Price Prediction** | In this project the price ranges of a mobile phone is predicted based on its specifications and functionalities | [Deployed App](https://awojidetola-mobile-phone-price-prediction-prediction-mma8kw.streamlitapp.com/) , [Github Repo](https://github.com/awojidetola/Mobile-Phone-Price-Prediction) |
 |**Youtube Analysis**|In this project, the top 20 youtube channels, based on number of subscribers, are analyzed |[Github Repo](https://github.com/awojidetola/Youtube-Analysis) , [Dashboard](https://public.tableau.com/app/profile/margaret.awojide/viz/Top200YoutubersDashboard/Dashboard1) , [Report](https://github.com/awojidetola/Youtube-Analysis/raw/main/Report.pdf)  | 
 | **Macdonals Menu** | This project analyzes the nutritional value of Macdonald's foods. | [Github Repo](https://github.com/awojidetola/McDonalds-Menu-Analysis), [Report](https://github.com/awojidetola/McDonalds-Menu-Analysis/raw/main/McDonald_Analysis%20slides.pdf)|
