@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 Tableau Streamlit Heroku Django
 -->
 
-## 🛠 Framework| Tools | Languages
+## 🛠 Framework | Tools | Languages
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height="30em" align="center" alt="Python" title="Python"/>](https://github.com/awojidetola)
 [<img src="https://www.clipartmax.com/png/middle/349-3490136_anaconda-icon-anaconda-python-icon.png" height="30em" align="center" alt="Anaconda" title="Anaconda"/>](https://github.com/awojidetola)
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8diGKg92SXPgrCNfDICWBS2-qYmUF5RnWtdxOVb5X0Hxi6PH5M-5P48Wz6ZHj2WEroRU&usqp=CAU" height="30em" align="center" alt="R" title="R"/>](https://github.com/awojidetola)
