@@ -16,7 +16,8 @@
   
 - 🌐 I create magic with data, you can find some of my dashboards and stories on [https://public.tableau.com/app/profile/margaret.awojide](https://public.tableau.com/app/profile/margaret.awojide)
 
-[![An image of @awojidetola's Holopin badges, which is a link to view their full Holopin profile](https://holopin.io/api/user/board?user=awojidetola)](https://holopin.io/@awojidetola)
+[![An image of @awojidetola's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/awojidetola)](https://holopin.io/@awojidetola)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
