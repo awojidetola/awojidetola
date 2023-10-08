@@ -57,7 +57,7 @@
 |**Customer Response Prediction**|This is a submission for the DSN 2021 Hackathon. Using Machine Learning, the customer response of a leading e-commerce company is predicted post-pandemic|[Github Repo](https://github.com/awojidetola/DSN-Bootcamp-Hackathon-Customer-Response-Prediction-) |
 -->
 
-<!--### Blogs posts-->
+### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [A Comprehensive Guide to Combining Data in Tableau](https://python.plainenglish.io/a-comprehensive-guide-to-combining-data-in-tableau-fde6bb8bce66?source=rss-1c303eaf110e------2)
 - [SQL for Data Analysts: Getting Started with SQL](https://medium.com/codex/sql-for-data-analysts-getting-started-with-sql-b1483e20667f?source=rss-1c303eaf110e------2)
