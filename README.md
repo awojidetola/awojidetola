@@ -16,6 +16,16 @@
   
 - 🌐 I create magic with data, you can find some of my dashboards and stories on my [Tableau Public Profile](https://public.tableau.com/app/profile/margaret.awojide)
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+- [A Comprehensive Guide to Combining Data in Tableau](https://python.plainenglish.io/a-comprehensive-guide-to-combining-data-in-tableau-fde6bb8bce66?source=rss-1c303eaf110e------2)
+- [SQL for Data Analysts: Getting Started with SQL](https://medium.com/codex/sql-for-data-analysts-getting-started-with-sql-b1483e20667f?source=rss-1c303eaf110e------2)
+- [Statistics for Data Analysts: Inferential Statistics with Python](https://medium.com/codex/statistics-for-data-analysts-inferential-statistics-with-python-de8b7f49cfa?source=rss-1c303eaf110e------2)
+- [Statistics for Data Analysts: Descriptive Statistics with Python](https://medium.com/codex/statistics-for-data-analysts-descriptive-statistics-with-python-cc6e4485209f?source=rss-1c303eaf110e------2)
+<!-- BLOG-POST-LIST:END -->
+
+
+
 [![An image of @awojidetola's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/awojidetola)](https://holopin.io/@awojidetola)
 
 
@@ -56,14 +66,4 @@
 | **COVID 19 Data Analysis**| This conducts analysis of the economic impact of COVID 19 in Nigeria | [Github Repo](https://github.com/awojidetola/Data-Analysis-Covid-19), [Presentation](https://github.com/awojidetola/Data-Analysis-Covid-19/raw/main/Data%20Analysis%20COVID%2019.pptx)|
 |**Customer Response Prediction**|This is a submission for the DSN 2021 Hackathon. Using Machine Learning, the customer response of a leading e-commerce company is predicted post-pandemic|[Github Repo](https://github.com/awojidetola/DSN-Bootcamp-Hackathon-Customer-Response-Prediction-) |
 -->
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [A Comprehensive Guide to Combining Data in Tableau](https://python.plainenglish.io/a-comprehensive-guide-to-combining-data-in-tableau-fde6bb8bce66?source=rss-1c303eaf110e------2)
-- [SQL for Data Analysts: Getting Started with SQL](https://medium.com/codex/sql-for-data-analysts-getting-started-with-sql-b1483e20667f?source=rss-1c303eaf110e------2)
-- [Statistics for Data Analysts: Inferential Statistics with Python](https://medium.com/codex/statistics-for-data-analysts-inferential-statistics-with-python-de8b7f49cfa?source=rss-1c303eaf110e------2)
-- [Statistics for Data Analysts: Descriptive Statistics with Python](https://medium.com/codex/statistics-for-data-analysts-descriptive-statistics-with-python-cc6e4485209f?source=rss-1c303eaf110e------2)
-<!-- BLOG-POST-LIST:END -->
-
-
 
