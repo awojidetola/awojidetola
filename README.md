@@ -9,9 +9,7 @@
 - ⚡ Interested in Research 
 - 🌐 You can find all my open source projects on [Github](https://github.com/awojidetola), [Kaggle](https://www.kaggle.com/awojidemargaret) and [Zindi](https://zindi.africa/users/awojide)
 
-<!--
-- 🌱 I am currently preparing for Microsoft PL300 Exam 
---!>
+[![An image of @awojidetola's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/awojidetola)](https://holopin.io/@awojidetola)
 
 <!--
 **awojidetola/awojidetola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
