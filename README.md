@@ -1,38 +1,44 @@
-# Hello there!👋
+<h1 align = "center">Margaret Awojide</h1>
+<h3 align="center">Data Scientist || Data Analyst || Statistician || Technical Writer</h3>
+
 ![Welcome!](https://user-images.githubusercontent.com/49078266/185427734-60acc502-3de3-4593-9d80-4a4398ae2c29.gif)
 
-## :book: About Me
+<!--## :book: About Me
 - 💻Data Analyst/Scientist
 - 🔭 Technical Writer
-- 🔍Check me out on [Linkedln](https://www.linkedin.com/in/margaret-awojide/) and [Medium](https://medium.com/@margaretawojide)
-- 🎓 Studying Statistics at University of Lagos, Nigeria
-- ⚡ Interested in Research 
-- 🌐 You can find all my open source projects on [Github](https://github.com/awojidetola), [Kaggle](https://www.kaggle.com/awojidemargaret) and [Zindi](https://zindi.africa/users/awojide)
+- ⚡ Interested in Research -->
+
+- 🌱 I’m currently learning **Natural Language Processing**
+
+- 👨‍💻 All of my projects are available at [https://margaret-awojide.portfolial.com/](https://margaret-awojide.portfolial.com/)
+
+- 📝 I regularly write articles on [https://medium.com/@margaretawojide](https://medium.com/@margaretawojide)
+  
+- 🌐 I create magic with data, you can find some of my dashboards and stories on [https://public.tableau.com/app/profile/margaret.awojide](https://public.tableau.com/app/profile/margaret.awojide)
 
 [![An image of @awojidetola's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/awojidetola)](https://holopin.io/@awojidetola)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/awojidemargaret" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="awojidemargaret" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/margaret-awojide" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="margaret-awojide" height="30" width="40" /></a>
+<a href="https://kaggle.com/awojidemargaret" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="awojidemargaret" height="30" width="40" /></a>
+<a href="https://medium.com/@margaretawojide" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@margaretawojide" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/awojidemargaret1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="awojidemargaret1" height="30" width="40" /></a>
+</p>
+
+
+### 💻 Tech Stack:
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=awojidetola&show_icons=true&locale=en&layout=compact" alt="awojidetola" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=awojidetola&show_icons=true&locale=en" alt="awojidetola" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=awojidetola&" alt="awojidetola" /></p>
+
 <!--
-**awojidetola/awojidetola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-Tableau Streamlit Heroku Django
--->
-
-## 🛠 Framework | Tools | Languages
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height="30em" align="center" alt="Python" title="Python"/>](https://github.com/awojidetola)
-[<img src="https://www.clipartmax.com/png/middle/349-3490136_anaconda-icon-anaconda-python-icon.png" height="30em" align="center" alt="Anaconda" title="Anaconda"/>](https://github.com/awojidetola)
-[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8diGKg92SXPgrCNfDICWBS2-qYmUF5RnWtdxOVb5X0Hxi6PH5M-5P48Wz6ZHj2WEroRU&usqp=CAU" height="30em" align="center" alt="R" title="R"/>](https://github.com/awojidetola)
-[<img src="https://cdn1.vectorstock.com/i/1000x1000/77/50/sql-database-icon-logo-design-ui-or-ux-app-vector-17507750.jpg" height="30em" align="center" alt="SQL" title="SQL"/>](https://github.com/awojidetola)
-[<img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png" height="30em" align="center" alt="Tableau" title="Tableau"/>](https://github.com/awojidetola)
-
 ## Projects
 
 | Title | Description | Links |
@@ -48,3 +54,11 @@ Tableau Streamlit Heroku Django
 | **Supermarket Data Analysis** | The analysis of a fictional Supermarket is conducted for this three branches in Lagos, Abuja and Port Harcourt|[Github Repo](https://github.com/awojidetola/Supermarket-Analysis-Project), [Executive Summary](https://github.com/awojidetola/Supermarket-Analysis-Project/raw/main/Executive%20Summary.pdf) |
 | **COVID 19 Data Analysis**| This conducts analysis of the economic impact of COVID 19 in Nigeria | [Github Repo](https://github.com/awojidetola/Data-Analysis-Covid-19), [Presentation](https://github.com/awojidetola/Data-Analysis-Covid-19/raw/main/Data%20Analysis%20COVID%2019.pptx)|
 |**Customer Response Prediction**|This is a submission for the DSN 2021 Hackathon. Using Machine Learning, the customer response of a leading e-commerce company is predicted post-pandemic|[Github Repo](https://github.com/awojidetola/DSN-Bootcamp-Hackathon-Customer-Response-Prediction-) |
+-->
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
+
