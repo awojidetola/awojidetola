@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@margaretawojide](https://medium.com/@margaretawojide)
   
-- 🌐 I create magic with data, you can find some of my dashboards and stories on [https://public.tableau.com/app/profile/margaret.awojide](https://public.tableau.com/app/profile/margaret.awojide)
+- 🌐 I create magic with data, you can find some of my dashboards and stories on my [Tableau Public Profile](https://public.tableau.com/app/profile/margaret.awojide)
 
 [![An image of @awojidetola's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/awojidetola)](https://holopin.io/@awojidetola)
 
