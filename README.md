@@ -18,7 +18,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Deep Learning](https://margaretawojide.medium.com/getting-started-with-deep-learning-84b7073dcd41?source=rss-1c303eaf110e------2)
+- [Getting Started with Deep Learning](https://python.plainenglish.io/getting-started-with-deep-learning-84b7073dcd41?source=rss-1c303eaf110e------2)
 - [A Comprehensive Guide to Combining Data in Tableau](https://python.plainenglish.io/a-comprehensive-guide-to-combining-data-in-tableau-fde6bb8bce66?source=rss-1c303eaf110e------2)
 - [SQL for Data Analysts: Getting Started with SQL](https://medium.com/codex/sql-for-data-analysts-getting-started-with-sql-b1483e20667f?source=rss-1c303eaf110e------2)
 - [Statistics for Data Analysts: Inferential Statistics with Python](https://medium.com/codex/statistics-for-data-analysts-inferential-statistics-with-python-de8b7f49cfa?source=rss-1c303eaf110e------2)
