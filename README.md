@@ -8,7 +8,9 @@
 - 🔭 Technical Writer
 - ⚡ Interested in Research -->
 
-- 🌱 I’m currently learning **Natural Language Processing**
+<!--
+- 🌱 I’m currently learning **Natural Language Processing** -->
+
 
 - 👨‍💻 All of my projects are available at [https://margaret-awojide.portfolial.com/](https://margaret-awojide.portfolial.com/)
 
@@ -16,13 +18,6 @@
   
 - 🌐 I create magic with data, you can find some of my dashboards and stories on my [Tableau Public Profile](https://public.tableau.com/app/profile/margaret.awojide)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [Surviving Nigeria’s Electricity Crises](https://margaretawojide.medium.com/surviving-nigerias-electricity-crises-dac07ff35f0f?source=rss-1c303eaf110e------2)
-- [Getting Started with Deep Learning](https://medium.com/codex/getting-started-with-deep-learning-84b7073dcd41?source=rss-1c303eaf110e------2)
-- [A Comprehensive Guide to Combining Data in Tableau](https://python.plainenglish.io/a-comprehensive-guide-to-combining-data-in-tableau-fde6bb8bce66?source=rss-1c303eaf110e------2)
-- [SQL for Data Analysts: Getting Started with SQL](https://medium.com/codex/sql-for-data-analysts-getting-started-with-sql-b1483e20667f?source=rss-1c303eaf110e------2)
-<!-- BLOG-POST-LIST:END -->
 
 
 
